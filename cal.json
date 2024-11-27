@@ -1,0 +1,12 @@
+{
+  "events":{
+    "id-1": {
+      "name": "Ouverture du site",
+      "place": "7xtoy.github.io",
+      "who": "Net7",
+      "icon_who": "https://yt3.googleusercontent.com/rMC_bqbVnYmfu-b0hlhcUf9qCaMluFj-jL-jfYTRfEj6OypmHvBKVcC3rpbvxohLeXi5Ny4GGA=s160-c-k-c0x00ffffff-no-rj",
+      "description": "L'ouverture de ce site!",
+      "when": {"start": "2024-12-01T08:00:00.000Z", "end": "2024-12-01T08:00:00.000Z"}
+    }
+  }
+}
