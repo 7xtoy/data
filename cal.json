@@ -1,20 +1,52 @@
 {
   "events":[
     {
-      "name": "Ouverture du site",
-      "place": "7xtoy.github.io",
-      "who": "Net7x Toy Story",
-      "icon_who": "https://yt3.googleusercontent.com/rMC_bqbVnYmfu-b0hlhcUf9qCaMluFj-jL-jfYTRfEj6OypmHvBKVcC3rpbvxohLeXi5Ny4GGA=s160-c-k-c0x00ffffff-no-rj",
-      "description": "Ouverture du site ! Pleins de choses vous attendent !",
-      "when": {"start": "2024-12-04T08:00:00.000Z", "end": "2024-12-01T08:00:00.000Z"}
-    },      
-    {
+      "name": "Prévention IST",
+      "place": "FOY",
+      "description": "Venez récupérer des préservatifs au FOY !",
+      "when": "9 décembre à 15h45"
+    }, {
       "name": "Hall Christmas",
       "place": "Hall C",
       "who": "N7",
       "icon_who": "https://adresses-incontournables.madame.lefigaro.fr/wp-content/uploads/BANNIERE-SPECIAL-NOEL-MLF-min.jpg",
       "description": "Allez noël !",
-      "when": {"start": "2024-12-07T19:00:00.000Z", "end": "2024-12-08T02:45:00.000Z"}
+      "when": "7 décembre"
+    }, {
+      "name": "Retrouver les membres du bureau",
+      "place": "FOY",
+      "description": "On porte des chapeau rose !",
+      "when": "6 décembre"
+    }, {
+      "name": "Annonces des courses hebdomadaires",
+      "place": "Toulouse",
+      "who": "BDS",
+      "description": "Rejoignez-nous pour courir dans la bonne humeur !",
+      "when": "5 décembre"
+    }, {
+      "name": "Ouverture du site",
+      "place": "7xtoy.github.io",
+      "who": "Net7x Toy Story",
+      "icon_who": "https://yt3.googleusercontent.com/rMC_bqbVnYmfu-b0hlhcUf9qCaMluFj-jL-jfYTRfEj6OypmHvBKVcC3rpbvxohLeXi5Ny4GGA=s160-c-k-c0x00ffffff-no-rj",
+      "description": "Ouverture du site ! Pleins de choses vous attendent !",
+      "when": "4 décembre à 8h00"
+    }, {
+      "name": "Concours de mèmes",
+      "place": "Instagram @7x_toys_histoire",
+      "who": "7x Toy Story",
+      "description": "Envoyez vos meilleurs mèmes pour participer au concours !",
+      "when": "3 décembre"
+    }, {
+      "name": "Vente de crêpes",
+      "place": "FOY",
+      "who": "7x Toy Story",
+      "description": "Rendez-vous au FOY pour déguster nos délicieuses crêpes",
+      "when": "2 décembre à 15h45"
+    }, {
+      "name": "Reveal du calendrier de l'Avent",
+      "who": "7x Toy Story",
+      "description": "Chaque jour, un nouvel événement vous attend !",
+      "when": "1 décembre"
     }
   ]
 }
