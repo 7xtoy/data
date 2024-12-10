@@ -1,13 +1,11 @@
 {
   "advent": {
-    "day": 4,
-	"icon_who": "https://lepetitmondedecamille.com/3077-large_default/cheque-cadeau-pour-ses-achats-de-noel.jpg",
-	"name": "Reveal du Site",
-    "who": "La meilleur Liste",
+    "day": 10,
+	"name": "Cache Cash",
     "when": {
       "start": "de 8h00",
       "end": "à 00h"
     },
-    "description": "A demain pour une nouvelle surprise, à très vite !"
+    "description": "Trouve le plus de coins pour gagner des cadeaux à la fin de la course aux coins de 7x toy story"
   }
 }
