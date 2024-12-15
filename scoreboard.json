@@ -1,9 +1,29 @@
 {
   "scoreboard":[
     {
-      "name":"Le Prez",
-      "points": 1000000
+      "name":"Grégoire Veniat",
+      "points": 7
+    },{
+      "name":"Thomas Sabatier",
+      "points": 3
+    },{
+      "name":"Antoine Braesch",
+      "points": 2
+    },{
+      "name":"Eliott Arickx",
+      "points": 2
+    },{
+      "name":"Bastien Bernardi",
+      "points": 1
+    },{
+      "name":"Gaspard Majercsik",
+      "points": 1
+    },{
+      "name":"Simon Cathala",
+      "points": 1
+    },{
+      "name":"Theo Nouet",
+      "points": 1
     }
-    
   ]
 }
